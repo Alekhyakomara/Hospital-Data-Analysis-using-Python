@@ -98,17 +98,6 @@ The following data-cleaning steps were performed:
 * Supported data-driven decision-making for hospital management.
 * Improved understanding of healthcare operational performance.
 
-## Repository Structure
-
-```text
-hospital-data-analysis-python/
-│
-├── Hospital data.ipynb
-├── Hospital Data Analysis.docx
-├── dataset.csv
-└── README.md
-```
-
 ## How to Run
 
 1. Clone the repository.
